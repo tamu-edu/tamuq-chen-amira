@@ -4,6 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/spatial_scene.unity
@@ -11,6 +12,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Main_menu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+=======
+  m_Scenes: []
+>>>>>>> parent of 4c71f57 (sample spatial awareness project)
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4125f57b33357f741997c80531d62b3d, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5d64ecee1b1bbca439b976203cd434f4, type: 2}
