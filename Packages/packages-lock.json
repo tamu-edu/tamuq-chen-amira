@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.microsoft.mixedreality.openxr": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.openxr-1.7.0.tgz",
+      "version": "file:MixedReality/com.microsoft.mixedreality.openxr-1.7.2.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
@@ -9,29 +9,6 @@
         "com.unity.xr.management": "4.2.0",
         "com.unity.xr.openxr": "1.5.3",
         "com.unity.xr.core-utils": "2.1.0"
-      }
-    },
-<<<<<<< HEAD
-    "com.microsoft.mixedreality.toolkit.extensions": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "com.microsoft.mixedreality.toolkit.foundation": "2.8.2"
-      }
-    },
-    "com.microsoft.mixedreality.toolkit.figmabridge": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.figmabridge-0.1.1.tgz",
-=======
-    "com.microsoft.mixedreality.toolkit.foundation": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz",
->>>>>>> parent of 4c71f57 (sample spatial awareness project)
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "com.microsoft.mixedreality.toolkit.foundation": "2.7.0",
-        "com.unity.nuget.newtonsoft-json": "2.0.0",
-        "com.unity.textmeshpro": "2.1.4"
       }
     },
     "com.microsoft.mixedreality.toolkit.foundation": {
@@ -51,11 +28,7 @@
       }
     },
     "com.unity.collab-proxy": {
-<<<<<<< HEAD
       "version": "2.0.1",
-=======
-      "version": "1.17.2",
->>>>>>> parent of 4c71f57 (sample spatial awareness project)
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -80,13 +53,8 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-<<<<<<< HEAD
         "com.unity.ide.visualstudio": "2.0.17",
         "com.unity.ide.rider": "3.0.18",
-=======
-        "com.unity.ide.visualstudio": "2.0.16",
-        "com.unity.ide.rider": "3.0.15",
->>>>>>> parent of 4c71f57 (sample spatial awareness project)
         "com.unity.ide.vscode": "1.2.5",
         "com.unity.editorcoroutines": "1.0.0",
         "com.unity.performance.profile-analyzer": "1.2.2",
@@ -95,11 +63,7 @@
       }
     },
     "com.unity.ide.rider": {
-<<<<<<< HEAD
       "version": "3.0.18",
-=======
-      "version": "3.0.15",
->>>>>>> parent of 4c71f57 (sample spatial awareness project)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -124,23 +88,12 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-<<<<<<< HEAD
       "version": "1.5.0",
-=======
-      "version": "1.4.3",
->>>>>>> parent of 4c71f57 (sample spatial awareness project)
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.uielements": "1.0.0"
       },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "3.0.2",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.performance.profile-analyzer": {
@@ -150,20 +103,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
-    "com.unity.services.core": {
-      "version": "1.4.3",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.unitywebrequest": "1.0.0",
-        "com.unity.nuget.newtonsoft-json": "3.0.2",
-        "com.unity.modules.androidjni": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
->>>>>>> parent of 4c71f57 (sample spatial awareness project)
     "com.unity.settings-manager": {
       "version": "1.0.3",
       "depth": 2,
@@ -203,7 +142,7 @@
     },
     "com.unity.textmeshpro": {
       "version": "3.0.6",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0"
@@ -295,7 +234,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr": {
-      "version": "1.6.0",
+      "version": "1.7.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
