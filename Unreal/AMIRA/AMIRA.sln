@@ -9,7 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{DE1F8B53
 EndProject
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE5", "Intermediate\ProjectFiles\UE5.vcxproj", "{53FEB074-2C94-3CC9-882D-1AABBD534E75}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AMIRA", "Intermediate\ProjectFiles\AMIRA.vcxproj", "{808FB5EB-6A56-31ED-8AC1-2D42D849CB6E}"
@@ -17,15 +16,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{1CCEC849-CC72-4C59-8C36-2F7C38706D4C}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\Program Files\Epic Games\UE_5.0\Engine\Extras\VisualStudioDebugging\Unreal.natvis = ..\..\..\..\Program Files\Epic Games\UE_5.0\Engine\Extras\VisualStudioDebugging\Unreal.natvis
-=======
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AMIRA", "Intermediate\ProjectFiles\AMIRA.vcxproj", "{808FB5EB-6A56-31ED-8AC1-2D42D849CB6E}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE5", "Intermediate\ProjectFiles\UE5.vcxproj", "{53FEB074-2C94-3CC9-882D-1AABBD534E75}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{1CCEC849-CC72-4C59-8C36-2F7C38706D4C}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Unreal Engine\Engine\UE_5.0\Engine\Extras\VisualStudioDebugging\Unreal.natvis = ..\..\..\..\Unreal Engine\Engine\UE_5.0\Engine\Extras\VisualStudioDebugging\Unreal.natvis
->>>>>>> parent of 172b603 (Eyes Blink)
 =======
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AMIRA", "Intermediate\ProjectFiles\AMIRA.vcxproj", "{808FB5EB-6A56-31ED-8AC1-2D42D849CB6E}"
 EndProject
@@ -57,14 +47,11 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 		{53FEB074-2C94-3CC9-882D-1AABBD534E75}.DebugGame Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{53FEB074-2C94-3CC9-882D-1AABBD534E75}.DebugGame|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{53FEB074-2C94-3CC9-882D-1AABBD534E75}.Development Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{53FEB074-2C94-3CC9-882D-1AABBD534E75}.Development|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{53FEB074-2C94-3CC9-882D-1AABBD534E75}.Shipping|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
-=======
->>>>>>> parent of 172b603 (Eyes Blink)
 =======
 >>>>>>> parent of 172b603 (Eyes Blink)
 =======
@@ -81,10 +68,7 @@ Global
 		{808FB5EB-6A56-31ED-8AC1-2D42D849CB6E}.Shipping|Win64.Build.0 = Shipping|x64
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 172b603 (Eyes Blink)
 =======
 >>>>>>> parent of 172b603 (Eyes Blink)
 		{53FEB074-2C94-3CC9-882D-1AABBD534E75}.DebugGame Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
@@ -93,9 +77,6 @@ Global
 		{53FEB074-2C94-3CC9-882D-1AABBD534E75}.Development|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{53FEB074-2C94-3CC9-882D-1AABBD534E75}.Shipping|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 172b603 (Eyes Blink)
-=======
 >>>>>>> parent of 172b603 (Eyes Blink)
 =======
 >>>>>>> parent of 172b603 (Eyes Blink)
@@ -108,12 +89,9 @@ Global
 		{808FB5EB-6A56-31ED-8AC1-2D42D849CB6E} = {DE1F8B53-6C02-3C13-9101-A7C8D96F3FF6}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 	EndGlobalSection
 	GlobalSection(ddbf523f-7eb6-4887-bd51-85a714ff87eb) = preSolution
 		AvailablePlatforms = Win64
-=======
->>>>>>> parent of 172b603 (Eyes Blink)
 =======
 >>>>>>> parent of 172b603 (Eyes Blink)
 =======
