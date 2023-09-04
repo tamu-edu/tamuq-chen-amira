@@ -84,10 +84,6 @@
 				"HoloLens",
 				"Android"
 			]
-		},
-		{
-			"Name": "ARUtilities",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
