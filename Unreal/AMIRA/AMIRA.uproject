@@ -58,15 +58,6 @@
 			]
 		},
 		{
-			"Name": "MicrosoftOpenXR",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ef8930ca860148c498b46887da196239",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"HoloLens"
-			]
-		},
-		{
 			"Name": "XRVisualization",
 			"Enabled": true
 		},
@@ -90,19 +81,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "VisualStudioTools",
+			"Name": "MicrosoftOpenXR",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/362651520df94e4fa65492dbcba44ae2",
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ef8930ca860148c498b46887da196239",
 			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
-			"Name": "MicroSoftSpatialSound",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"HoloLens",
-				"Win64"
+				"Win64",
+				"HoloLens"
 			]
 		}
 	],
